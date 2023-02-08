@@ -1,0 +1,13 @@
+name: LGBTplusCensus2021
+title: LGBTplusCensus2021
+username:
+account: commonslibrary
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8030844
+bundleId: 6776713
+url: https://commonslibrary.shinyapps.io/LGBTplusCensus2021/
+when: 1674734815.36385
+lastSyncTime: 1674734815.36385
+asMultiple: FALSE
+asStatic: FALSE
